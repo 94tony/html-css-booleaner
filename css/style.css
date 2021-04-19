@@ -1,0 +1,25 @@
+#pattern{
+    background-color: cornflowerblue;
+    background-image: url("./pattern.png") ;
+    height: 150px; 
+
+}
+
+.logo{
+    width: 20%;
+    margin-top: 7.5%;
+}
+
+.crediti, .data{
+    color: grey;
+}
+
+#booleaner{
+    color: cornflowerblue;
+
+}
+
+.data{
+    font-size: 10px;
+    
+}
