@@ -23,3 +23,11 @@
     font-size: 10px;
     
 }
+
+.descrizione{
+    font-size: 15px;
+}
+
+#evidenziato{
+    background-color: yellow;
+}
